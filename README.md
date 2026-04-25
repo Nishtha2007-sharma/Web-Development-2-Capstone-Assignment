@@ -2,7 +2,7 @@
 
 A Cybersecurity Awareness & Threat Intelligence Dashboard built with React + Vite.
 
-🔗 **Live Demo:** [illustrious-queijadas-eceda0.netlify.app](https://illustrious-queijadas-eceda0.netlify.app/)
+🔗 **Live Demo:** [guileless-alfajores-69e0b5.netlify.app](https://guileless-alfajores-69e0b5.netlify.app/)
 
 ## Features
 - 🔍 Breach Checker — Search known public data breaches
